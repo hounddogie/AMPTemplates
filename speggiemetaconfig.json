@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "\\Torch.cfg",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "\\Instance\\SpaceEngineers-Dedicated.cfg",
+        "ConfigType": "xml",
+        "AutoMap": true
+    }
+]

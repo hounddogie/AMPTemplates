@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "acquire torch",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://build.torchapi.com/job/Torch/job/master/lastSuccessfulBuild/artifact/bin/torch-server.zip",
+        "UpdateSourceArgs": "",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "/serverfiles",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": true
+    }
+]
