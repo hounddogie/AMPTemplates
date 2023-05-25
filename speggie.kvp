@@ -87,4 +87,3 @@ Meta.OS=1
 Meta.Prerequsites=[]
 Meta.SpecificDockerImage=
 Meta.URL=https://github.com/TorchAPI/Torch
-availablePortOptions=Custom Port,RCON Port
